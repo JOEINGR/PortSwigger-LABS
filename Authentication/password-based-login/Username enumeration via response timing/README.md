@@ -4,7 +4,7 @@
 
 <img width="1788" height="962" alt="image" src="https://github.com/user-attachments/assets/a15c0a93-47ad-40fa-95fe-ea63e49c6b87" />
 
-## ** SOLUTION:**
+## **SOLUTION:**
 
 Access the web login page.
 
